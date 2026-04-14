@@ -29,6 +29,7 @@ on:
           - "libs/partners/fireworks"
           - "libs/partners/groq"
           - "libs/partners/huggingface"
+          - "libs/partners/inception"
           - "libs/partners/mistralai"
           - "libs/partners/nomic"
           - "libs/partners/ollama"
