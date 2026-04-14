@@ -59,6 +59,7 @@ on:
           - fireworks
           - groq
           - huggingface
+          - inception
           - mistralai
           - nomic
           - ollama
